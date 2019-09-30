@@ -1,6 +1,6 @@
 
 
-
+```
 {
   "terminal.explorerKind": "external",
   "terminal.external.osxExec": "iTerm.app",
@@ -26,3 +26,4 @@
   "prettier.singleQuote": true,
   "prettier.jsxSingleQuote": true
 }
+```
